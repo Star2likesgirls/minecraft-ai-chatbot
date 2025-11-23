@@ -1,3 +1,5 @@
+## currently broken! only logs usernames :(
+
 # Minecraft AI Auto-Response Bot
 
 A Mineflayer bot that automatically responds to chat messages using AI (OpenAI or DeepSeek), with anti-AFK features and Discord webhook logging.
